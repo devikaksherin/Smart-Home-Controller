@@ -219,6 +219,9 @@ Adafruit SSD1306 Library
 
 ▶️ Simulation
 
+
+[Open Smart Home Controller Simulation](https://wokwi.com/projects/472629986618471425)
+
 The project can be simulated online using Wokwi.
 
 🔗 Wokwi Project
